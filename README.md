@@ -17,7 +17,7 @@
 ### My Stats
 
  
- [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Nado96&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars) 
+ [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Nado96&theme=dark)](https://www.codewars.com/users/Nado96) 
  
  </div>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=nadocodes&theme=neon-palenight&hide_border=true&fire=7A3D9B)](https://git.io/streak-stats)

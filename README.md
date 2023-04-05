@@ -9,7 +9,12 @@
  ## 💫 About Me:
  
 </div>
-🔭 I’m currently working on: Developing responsive and interactive user interfaces using HTML, CSS, and JavaScript for web applications.<br><br>👯 I’m looking to collaborate on: Open source web projects and client project development that utilize modern front end technologies and frameworks.<br><br>🤝 I’m looking for help with: Staying up to date with the latest front end development technologies and best practices, improving user experience design, and enhancing web application performance.<br><br>🌱 I’m currently learning: Advanced CSS techniques, JavaScript frameworks such as React and Vue, and front-end tooling for automation and optimization.<br><br>💬 Ask me about: Responsive web design, accessibility, cross-browser compatibility, web performance optimization, and front end development workflows.<br><br>⚡ Fun fact: Did you know that the first website was created in 1991 by Sir Tim Berners-Lee and it only contained text and hyperlinks?
+🔭 I’m currently working on: Developing responsive and interactive user interfaces using HTML, CSS, and JavaScript for web applications.<br><br>
+👯 I’m looking to collaborate on: Open source web projects and client project development that utilize modern front end technologies and frameworks.<br><br>
+🤝 I’m looking for help with: Staying up to date with the latest front end development technologies and best practices, improving user experience design, and enhancing web application performance.<br><br>
+🌱 I’m currently learning: Advanced CSS techniques, JavaScript frameworks such as React and front-end tooling for automation and optimization.<br><br>
+💬 Ask me about: Responsive web design, accessibility, cross-browser compatibility, web performance optimization, and front end development workflows.<br><br>
+⚡ Fun fact: Did you know that the first website was created in 1991 by Sir Tim Berners-Lee and it only contained text and hyperlinks?
 
 <div align="center"> 
  

@@ -28,7 +28,7 @@
 
 <div align="center"> 
 
-## 📊 My Stats
+## 📊 My Stats:
 
  [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Nado96&theme=dark)](https://www.codewars.com/users/Nado96) 
  

@@ -29,10 +29,10 @@
 <div align="center"> 
 
 ## 📊 My Stats:
-
- [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Nado96&theme=dark)](https://www.codewars.com/users/Nado96) 
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadocodes&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+ [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Nado96&theme=dark)](https://www.codewars.com/users/Nado96) 
  
  </div>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=nadocodes&theme=neon-palenight&hide_border=true&fire=7A3D9B)](https://git.io/streak-stats)

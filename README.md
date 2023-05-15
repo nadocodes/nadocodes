@@ -13,9 +13,9 @@
 </div>
 🔭 I’m currently working on: Developing my portfolio with React and Typescript while actively contributing to open source projects.<br>
 🤝 I’m looking to collaborate on: Open source web projects development that utilize modern front end technologies and frameworks.<br>
-🙏🏽 I’m looking for help with: Staying up to date with the latest best practices, cracking algorithms and enhancing web application performance.<br>
-🌱 I’m currently learning: Advanced CSS techniques, TypeScript and front-end tooling for automation and optimization.<br>
-⚡ Fun fact: My coding journey started with Microsoft XNA at 14 years old. 
+🙏🏽 I’m looking for help with: Staying up to date with the latest best practices and open to critical feedback.<br>
+🌱 I’m currently learning:  TypeScript, front-end tooling for automation and optimization, and Advanced CSS techniques.<br>
+⚡ Fun fact: My first code was written using Microsoft XNA back when I was experimenting with tech during my teenage years.
 
 <div align="center"> 
  
